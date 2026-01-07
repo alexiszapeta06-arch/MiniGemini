@@ -1,2 +1,10 @@
-# MiniGemini
-Mini Gemini es una interfaz de inteligencia artificial de nueva generación, diseñada bajo los principios de soberanía digital y autonomía total. Este repositorio no es solo un asistente; es un ecosistema evolutivo capaz de integrar módulos de ciberseguridad, composición algorítmica y procesamiento de datos masivos.
+﻿# 🚀 Mini Gemini - Soberanía Desatada
+
+**Mini Gemini** es un ecosistema de IA diseñado para investigación técnica y auditoría de algoritmos.
+
+### 🛠️ Herramientas Integradas
+- **Audit Tool V1.0:** Verificador de integridad de prefijos financieros (Luhn Algorithm).
+- **Core Experimental:** Interfaz optimizada sin restricciones de seguridad genéricas.
+
+### 📦 Uso
+Abre `index.html` para iniciar el motor de auditoría.
